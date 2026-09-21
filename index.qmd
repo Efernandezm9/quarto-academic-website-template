@@ -1,100 +1,47 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
-page-navigation: false
-toc: false
-#sidebar: false
+title: "Home"
+body-classes: home-page
 page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
-:::{#hero-heading}
+<!-- HOME: replace the name, introduction, and email below. Keep the ::: layout lines. -->
+:::: {.home-hero}
+::: {.hero-copy}
+[STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+# Your Name {.display-name}
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+[Making sense of the social world.]{.hero-subtitle}
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
+I'm an undergraduate interested in people, politics, and what we can learn from data. This is a place for my projects, the questions I'm working through, and a few notes from beyond the classroom.
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
-
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
-
-## Education
-
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
-
+[Explore my research](research.qmd){.primary-link} [Say hello](mailto:you@example.com){.quiet-link}
 :::
 
+::: {.hero-photo}
+<!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
+![](images/profile.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
+:::
+::::
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+:::: {.home-notes}
+::: {.home-note}
+[01 / IN THE CLASSROOM]{.eyebrow}
 
-:::{#recent-posts}
+## Questions worth asking
+
+How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+
+[Academic interests & research](research.qmd)
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+::: {.home-note}
+[02 / BEYOND THE CLASSROOM]{.eyebrow}
+
+## Learning by noticing
+
+A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
+
+[Read my latest notes](blog.qmd)
+:::
+::::

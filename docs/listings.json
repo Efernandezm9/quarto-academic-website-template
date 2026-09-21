@@ -1,30 +1,9 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/hello-world.html",
+      "/posts/learning-from-a-chart.html"
     ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/pub-listing.html",
-    "items": []
   }
 ]

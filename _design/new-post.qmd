@@ -1,0 +1,23 @@
+---
+title: "Your post title"
+date: "2026-09-21"
+description: "One sentence that introduces the post."
+---
+
+<!-- COPY this file into posts/ and rename it, for example my-first-post.qmd. -->
+<!-- Change the title, date (YYYY-MM-DD), and description above. Then write below. -->
+
+Start with one idea, experience, or question you want to share.
+
+## What I noticed
+
+Write a short paragraph here.
+
+## What I'm thinking about next
+
+Write your reflection or next question here.
+
+<!-- OPTIONAL PHOTO: put your image in images/ and remove the comment marks below. -->
+<!-- ![](../images/travel.jpg){fig-alt="Describe the photo for a reader who cannot see it."} -->
+
+[Back to all posts](../blog.qmd)

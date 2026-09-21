@@ -1,0 +1,27 @@
+# Shared appearance and behavior. Students usually do not need to edit this file.
+website:
+  search: false
+  page-navigation: false
+  navbar:
+    background: light
+    collapse-below: lg
+    pinned: false
+  page-footer:
+    left: "A personal website, always in progress."
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: /_design/styles.css
+    toc: false
+    title-block-banner: false
+    mainfont: "system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+    fontsize: 18px
+    linestretch: 1.65
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    anchor-sections: false
+
+lang: en

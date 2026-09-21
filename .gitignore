@@ -3,3 +3,11 @@
 **/*.quarto_ipynb
 
 /.luarc.json
+.Rproj.user
+
+# Local RStudio state; docs/ is intentionally tracked for GitHub Pages.
+.Rhistory
+.RData
+.DS_Store
+# Optional local preview of the guide; GitHub displays README.md directly.
+/README.html
