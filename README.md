@@ -20,10 +20,21 @@ If **Version Control > Git** is unavailable, complete the course's Git setup fir
 
 1. Open **quarto-academic-website-template.Rproj** in RStudio. Keep the whole folder together.
 2. Open **index.qmd**. Use Source mode to see the short comments explaining what to edit.
-3. Click **Render** to preview the home page. For a complete site preview, use the **Build** pane's **Render Website** button (called **Render** in some versions).
-4. Edit, save, and render again. The generated pages go into **docs/**.
+3. In the **Build** pane, click **Render Website** (called **Render** in some versions) to generate **all pages**, including the blog posts. Wait until the build finishes.
+4. Open **index.qmd** and click its **Render** button to open the preview. Check all five navigation tabs and the links to blog posts.
+5. Edit and save your pages. Use **Build > Render Website** again when checking navigation or preparing to publish. The generated pages go into **docs/**.
 
 Use a recent RStudio with Quarto support. If Render is missing, reopen the `.Rproj` and check that Quarto is available in RStudio. This starter contains no executable R code, so it needs no R packages.
+
+### Home works, but another tab says “Not Found”
+
+Rendering only **index.qmd** does not build every other page. If `docs/` is missing or incomplete, a link can point to a page that has not been generated yet.
+
+1. Reopen the included **.Rproj** if the Build pane is missing.
+2. Use **Build > Render Website** and wait for the whole site to finish rendering.
+3. Render **index.qmd** again to reopen the preview, then refresh the browser. The **Research** tab opens `research.html`; **Blog** and **Read my latest notes** open `blog.html`.
+
+For a terminal workflow, run `quarto render` from this project folder, then `quarto preview`. To view the generated site directly, open **docs/index.html** and keep the entire `docs/` folder together. See Quarto's [website workflow guide](https://quarto.org/docs/websites/#workflow).
 
 ## 2. Where to change what
 
