@@ -10,7 +10,7 @@ page-layout: full
 ::: {.hero-copy}
 [STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
 
-# Your Name {.display-name}
+# Your Name {Esteban Fernandez M.}
 
 [Making sense of the social world.]{.hero-subtitle}
 
