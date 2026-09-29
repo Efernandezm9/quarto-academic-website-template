@@ -10,7 +10,7 @@ page-layout: full
 ::: {.hero-copy}
 [STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
 
-# Esteban Fernandez M {.display-name}
+# Esteban Fernandez {.display-name}
 
 [Making sense of the social world.]{.hero-subtitle}
 
@@ -21,7 +21,7 @@ I'm an undergraduate interested in people, politics, and what we can learn from 
 
 ::: {.hero-photo}
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/profile.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
+![](images/Efernandez_Pic.jpg){fig-alt="Portrait of Esteban Fernandez."}
 :::
 ::::
 
