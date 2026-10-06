@@ -21,7 +21,7 @@ I'm an undergraduate interested in people, politics, and what we can learn from 
 
 ::: {.hero-photo}
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/Efernandez_Pic.jpg){fig-alt="Portrait of Esteban Fernandez."}
+![](images/profile.jpg){fig-alt="Portrait of Esteban Fernandez."}
 :::
 ::::
 
