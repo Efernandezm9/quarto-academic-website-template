@@ -1,26 +1,12 @@
 ---
 title: "Resume"
-subtitle: "A few observations from outside my usual routine."
+subtitle: "Education, experience and skills.."
 ---
+## Resume overview
 
-<!-- TRAVEL: replace the image, location, and short reflection with your own. -->
+- **Legal Intern, Cervantes Hodges Law Firm** (Jul – Aug 2026): Drafted discovery, prepared court filings, and wrote legal research memos.
+- **Courtroom and client work:** Attended Superior Court hearings and interpreted between Spanish and English.
+- **Independent Property Manager, Tijuana** (May 2023 – Sep 2025): Managed tenant placement for two properties and led 30+ property tours.
+- **Volunteer, Fundación Tijuana Sin Hambre** (Aug 2023): Helped prepare and deliver meals to families.
+[My resume](files/resume.pdf)
 
-![](images/travel.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
-
-## Niagara Falls
-
-[FIELD NOTES / A DIFFERENT PACE]{.project-label}
-
-Some places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.
-
-I'm interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice.
-
-## What I want to remember
-
-- The details that a photograph doesn't capture.
-- A question about the place or the people who live there.
-- Something I would notice differently on a return visit.
-
-<!-- Add another place by copying the image and heading pattern above. -->
-
-[More observations on the blog](blog.qmd)
