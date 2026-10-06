@@ -1,16 +1,11 @@
 ---
 title: "Contact"
 subtitle: "Get in touch."
-# The list updates automatically when you add a .qmd file to posts/ and render the website.
-listing:
-  contents: posts/*.qmd
-  type: default
-  sort: "date desc"
-  fields: [date, title, description]
-  date-format: "MMM D, YYYY"
-  sort-ui: false
-  filter-ui: false
-  categories: false
+
 ---
 
-A notebook for things I'm learning, questions I haven't answered yet, and observations I want to keep.
+## Let's connect
+
+[Email me](mailto:eferna25@lion.lmu.edu)
+
+[LinkedIn](https://www.linkedin.com/in/esteban-fernandez-568632383/)
