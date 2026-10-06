@@ -21,28 +21,17 @@ I’m a junior Political Science major at Loyola Marymount University with inter
 
 ::: {.hero-photo}
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/profile.jpg){fig-alt="Portrait of Esteban Fernandez."}
+![](images/profile1.jpg){fig-alt="Portrait of Esteban Fernandez."}
 :::
 ::::
 
 :::: {.home-notes}
 ::: {.home-note}
-[01 / IN THE CLASSROOM]{.eyebrow}
+[01 / ACADEMICS]{.eyebrow}
 
-## Questions worth asking
+## Law, politics, and data
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+I study how legal and political institutions work, and I'm learning to use data to ask better questions about them.
 
 [Academic interests & research](research.qmd)
-:::
 
-::: {.home-note}
-[02 / BEYOND THE CLASSROOM]{.eyebrow}
-
-## Learning by noticing
-
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
-
-[Read my latest notes](blog.qmd)
-:::
-::::
