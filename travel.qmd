@@ -1,5 +1,5 @@
 ---
-title: "Travel & places"
+title: "Resume"
 subtitle: "A few observations from outside my usual routine."
 ---
 
