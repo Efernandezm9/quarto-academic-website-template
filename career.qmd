@@ -7,35 +7,42 @@ subtitle: "The work I've done and the work I'd like to try."
 
 ## Where I'd like to go
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+I plan to attend law school after graduating from Loyola Marymount University in 2028. I'm interested in work that combines legal research, clear writing, and direct contact with clients, and I plan to use my background in both Mexico and the United States in my career.
 
 ## Experience
 
-### Student researcher · Course project
+### Legal Intern · Cervantes Hodges Law Firm
 
-[FALL 2026]{.project-label}
+[JUL – AUG 2026 · CHULA VISTA, CA]{.project-label}
 
-- Explore a social question using a public dataset.
-- Create a visualization in R and explain the choices behind it.
-- Share code and notes so a classmate can follow the analysis.
+- Drafted written discovery and discovery responses across civil litigation matters.
+- Prepared court filings in family law and civil matters.
+- Verified citations and wrote legal research memos.
+- Attended Superior Court hearings and interpreted between Spanish and English.
 
-<!-- Add another role or volunteer project here if useful.
-     Use a heading for the role, then a date and 2–3 concrete contributions.
-     You do not need an internship to have useful experience to share. -->
+### Independent Property Manager · Real Estate Property Management
+
+[MAY 2023 – SEP 2025 · TIJUANA, B.C.]{.project-label}
+
+- Managed tenant placement for two residential properties.
+- Conducted 30+ property tours and coordinated tenant communication.
+- Tracked leases and rent payments.
 
 ## Skills I'm building
 
-**Research:** turning a broad interest into a focused question, finding sources, and explaining limitations.
+**Legal:** discovery drafting, legal research, citation verification, and case file organization.
 
 **Data:** working with R, making visualizations, and keeping a project organized.
 
-**Collaboration:** giving useful feedback, documenting work, and contributing to a shared project.
+**Languages:** bilingual in English and Spanish.
 
 ## Let's connect
 
 I'm happy to talk about projects, internships, and opportunities to learn.
 
-[Email me](mailto:you@example.com)
+## Let's connect
+
+[Contact](blog.qmd)
 
 <!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
 <!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->
