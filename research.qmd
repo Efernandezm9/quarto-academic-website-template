@@ -1,5 +1,5 @@
 ---
-title: "Academic interests & research"
+title: "Academic interests & Coursework"
 subtitle: "Questions, small projects, and work in progress."
 ---
 
@@ -7,28 +7,23 @@ subtitle: "Questions, small projects, and work in progress."
 
 ## What I'm curious about
 
-I'm interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.
+I'm interested in law, politics, and how data can help us ask better questions about both.
 
-- **Political participation:** Who gets involved, and what makes participation easier?
-- **Cities and communities:** How do local environments shape everyday choices?
-- **Data and communication:** How can a chart make a complex pattern easier to understand?
+- **Law and legal institutions:** How do courts and legal rules shape everyday life?
+- **Politics and government:** How do political systems make decisions, and who do those decisions affect?
+- **Data and evidence:** How can data make a complex legal or political question easier to understand?
 
-## A project I'm developing
+## Current coursework
 
-### Comparing life expectancy across countries
+- **Computational Social Science:** Research design and data analysis in R.
+- **The Justice System:** How courts, law enforcement, and corrections operate in the United States.
+- **Constitutional Law:** The Constitution, the Supreme Court, and the cases that define government power and individual rights.
 
-[COURSE PROJECT · IN PROGRESS]{.project-label}
-
-**Question.** How does life expectancy vary with income across countries in a given year?
-
-**Approach.** Use R to explore the historical Gapminder data and make a clearly labeled visualization.
-
-**What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
-
+## Projects
 [Read a reflection on this project](posts/learning-from-a-chart.qmd)
 
 ## What comes next
 
-I'd like to compare the same countries over time and consider what these measures leave out.
+I plan to attend law school after graduating from Loyola Marymount University and to build a career that draws on my background in the Tijuana–San Diego border region.
 
 <!-- OPTIONAL: add a project link with [Project title](https://your-link). -->

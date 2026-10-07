@@ -8,5 +8,6 @@ subtitle: "Education, experience and skills.."
 - **Courtroom and client work:** Attended Superior Court hearings and interpreted between Spanish and English.
 - **Independent Property Manager, Tijuana** (May 2023 – Sep 2025): Managed tenant placement for two properties and led 30+ property tours.
 - **Volunteer, Fundación Tijuana Sin Hambre** (Aug 2023): Helped prepare and deliver meals to families.
+
 [My resume](files/resume.pdf)
 
