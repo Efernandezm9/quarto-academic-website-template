@@ -19,9 +19,9 @@ I'm interested in law, politics, and how data can help us ask better questions a
 - **The Justice System:** How courts, law enforcement, and corrections operate in the United States.
 - **Constitutional Law:** The Constitution, the Supreme Court, and the cases that define government power and individual rights.
 
-## Projects
-[Read a reflection on this project](posts/learning-from-a-chart.qmd)
-
+22  ## Projects
+23  - **Text Analysis Project (POLS 4130):** Did Trump's tone change during the 2019 impeachment inquiry? [View my text analysis poster](files/text-analysis-poster.html)
+24  [Read a reflection on this project](posts/learning-from-a-chart.qmd)
 ## What comes next
 
 I plan to attend law school after graduating from Loyola Marymount University and to build a career that draws on my background in the Tijuana–San Diego border region.
