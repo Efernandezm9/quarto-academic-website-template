@@ -20,7 +20,9 @@ I'm interested in law, politics, and how data can help us ask better questions a
 - **Constitutional Law:** The Constitution, the Supreme Court, and the cases that define government power and individual rights.
 
 ## Projects
-[Read a reflection on this project][View my text analysis poster](files/research_poster.html)
+[View my text analysis poster](files/research_poster.html)
+
+
 
 ## What comes next
 
